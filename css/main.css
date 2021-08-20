@@ -2016,10 +2016,11 @@ input[type="text"],
   margin: 0 0 10px;
 }
 
-.project-general-info .fa {
+.project-general-info .fa, .project-general-info .fab {
   color: #04b4e0;
   margin-right: 5px;
 }
+
 
 .project-general-info p {
   margin: 0;
